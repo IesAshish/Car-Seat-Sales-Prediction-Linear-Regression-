@@ -19,6 +19,15 @@ each site
 store is in an urban or rural location
 ● US – A factor with levels No and Yes to indicate whether the store
 is in the US or not
+
 During this project, I will perform data analysis on the Carseats dataset. The Statistical analysis begins with a Univariate analysis of the variables followed by a bivariate analysis to study the correlations 
 and ultimately aims to fit a multiple linear regression model for the Sales. In the end, I will compare
 models using various techniques to find the most suitable model.
+
+# Table of Contents
+1. Dataset
+  1.1 Loading the Dataset
+2. Univariate Analysis
+  2.1 Distribution of Variables
+  2.2 Inference about the mean
+  2.3 Impact of categorical variables

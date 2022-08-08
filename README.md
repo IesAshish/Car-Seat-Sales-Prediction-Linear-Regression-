@@ -26,8 +26,8 @@ models using various techniques to find the most suitable model.
 
 # Table of Contents
 1. Dataset
-  1.1 Loading the Dataset
+  ..1.1 Loading the Dataset
 2. Univariate Analysis
-  2.1 Distribution of Variables
-  2.2 Inference about the mean
-  2.3 Impact of categorical variables
+  ..2.1 Distribution of Variables
+  ..2.2 Inference about the mean
+  ..2.3 Impact of categorical variables
